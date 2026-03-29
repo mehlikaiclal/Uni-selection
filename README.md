@@ -1,2 +1,1 @@
-# Inventory-logic
-inventory tracking system using lists and loops to monitor stock levels, calculate supply days, and generate automated restock alerts for business management.
+A simple SQL database I built using Python to track university applications. Instead of using Excel, I wanted to create my own system to stay organized.
